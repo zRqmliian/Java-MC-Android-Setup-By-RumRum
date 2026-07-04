@@ -5,6 +5,7 @@ I prefer Zalith Launcher 1 cuz I have a potato but you can use Zalith Launcher 2
 
 
 First off, the Launcher I linked below. then install the Remarkably Optimized modpack, then install some  mods to make it more like bedrock.
+
 Touchcontroller mod - mcpe controls for Java mc 
 
 Bedrockify mod - makes some things in Java mc look and feel like bedrock 
