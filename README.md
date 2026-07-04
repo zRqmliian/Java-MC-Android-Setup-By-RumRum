@@ -1,4 +1,4 @@
-# RumRum-s-Java-MC-Android-Setup-
+# RumRum-Java-MC-Android-Setup-
 Tested on Poco M6 Pro 4G
 I prefer Zalith Launcher 1 cuz I have a potato but you can use Zalith Launcher 2 for better UI and more features
 
@@ -11,9 +11,9 @@ Bedrockify mod - makes some things in Java mc look and feel like bedrock
  
  
   
-Links
+# Links
 
-NOTE: You can install it directly from the launcher and you do not need to download and import them manually.
+# NOTE: You can install it directly from the launcher and you do not need to download and import them manually.
 
 Zalith Launcher - https://github.com/ZalithLauncher/ZalithLauncher
 
