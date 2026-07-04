@@ -4,3 +4,6 @@ Zalith Launcher https://github.com/ZalithLauncher/ZalithLauncher
 Or Zalith Launcher 2 https://github.com/ZalithLauncher/ZalithLauncher2
 I prefer Zalith Launcher 1 cuz I have a potato but you can use Zalith Launcher potat for better UI and more features
 and then install the Remarkably Optimized modpack https://modrinth.com/modpack/remarkably.
+Optional but i cant play it without:
+Touchcontroller mod - mcpe controls for Java mc
+Bedrockify mod - makes some things in Java mc look and feel like bedrock
