@@ -16,7 +16,7 @@ Bedrockify mod - makes some things in Java mc look and feel like bedrock
 Havent really played around with the settings but so far this one runs great on my Helio G99
 
 >[!WARNING]
-> RENDERER SETTINGS VARIES BY DEVICE SPECIFICATIONS THIS MIGHT NOT WORK WELL FOR YOU.
+> RENDERER SETTINGS VARIES BY DEVICE SPECIFICATIONS AND THIS MIGHT NOT WORK WELL FOR YOU.
 <img width="1080" height="2400" alt="Screenshot_2026-07-05-14-42-47-393_com fcl plugin mobileglues" src="https://github.com/user-attachments/assets/ee6e1680-967b-4a71-8e17-c6c509711eb1" />
 
   
