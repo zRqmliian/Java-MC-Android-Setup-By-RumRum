@@ -4,7 +4,9 @@ I prefer Zalith Launcher 1 cuz I have a potato but you can use Zalith Launcher 2
 
 
 
-First off, the Launcher I linked below. then install the Remarkably Optimized modpack, then install some  mods to make it more like bedrock.
+First off, install the Launcher, download and copy my mobileglues settings(if you have the same specs as me) 
+
+Then install the Remarkably Optimized modpack, then install some  mods to make it more like bedrock.
 
 Touchcontroller mod - mcpe controls for Java mc 
 
@@ -34,4 +36,4 @@ Touchcontroller - https://modrinth.com/mod/touchcontroller
 
 Bedrockify - https://modrinth.com/mod/bedrockify
 
-then thats pretty much the minimal setup. Then just install the mods you like, some mods will not work though.
+Thats pretty much the minimal setup. Then just install the mods you like, some mods will not work though.
