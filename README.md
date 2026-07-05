@@ -25,7 +25,7 @@ Havent really played around with the settings but so far this one runs great on 
 # Links
 
 >[!Tip]
->You can install it directly from the launcher and you do not need to download and import them manually.
+>You can install the mods and modpack directly from the launcher and you do not need to download and import them manually.
 
 Zalith Launcher - https://github.com/ZalithLauncher/ZalithLauncher
 
