@@ -1,4 +1,4 @@
-# RumRum-Java-MC-Android-Setup-
+# Java-MC-Android-Setup-By-RumRum
 Tested on Poco M6 Pro 4G
 I prefer Zalith Launcher 1 cuz I have a potato but you can use Zalith Launcher 2 for better UI and more features
 
