@@ -4,7 +4,9 @@ I prefer Zalith Launcher 1 cuz I have a potato but you can use Zalith Launcher 2
 
 
 
-First off, install the Launcher, download and copy my mobileglues settings(if you have the same specs as me) 
+First off, install the Launcher, download MobileGlues
+
+you can also copy my MobileGlues settings if you have the same specs as me
 
 Then install the Remarkably Optimized modpack, then install some  mods to make it more like bedrock.
 
