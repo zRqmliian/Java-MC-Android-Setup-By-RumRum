@@ -10,6 +10,8 @@ Touchcontroller mod - mcpe controls for Java mc
 
 Bedrockify mod - makes some things in Java mc look and feel like bedrock 
  
+# MobileGlues Setup
+<img width="1080" height="2400" alt="Screenshot_2026-07-05-14-35-46-963_com fcl plugin mobileglues" src="https://github.com/user-attachments/assets/d50577ee-70b0-4f46-b883-d76513a3a436" />
  
   
 # Links
